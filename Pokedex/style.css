@@ -1,0 +1,7 @@
+div.card {
+  margin: 1rem;
+  padding: 1rem;
+}
+img.card--image {
+  object-fit: contain;
+}
